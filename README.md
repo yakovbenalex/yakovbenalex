@@ -1,5 +1,5 @@
 👋 Hi, I’m @yakovbenalex
 
-👀 I’m interested in Android programming and ruotine optimization
+👀 I’m interested in Android programming and ruotine optimization (Python, VBA and specific software)
 
-🌱 I’m currently learning Android and Java
+🌱 I’m currently learning Android
