@@ -1,6 +1,6 @@
 👋 Hi, I’m **@yakovbenalex**
 
-👀 I’m interested in Backend JS Development and ruotine optimization (Python, VBA and specific software), but now... (read below)
+👀 I’m interested in Backend JS Development and ruotine optimization (Python, VBA and specific software)
 
 🌱 I’m currently **Backend JS Developer** of School Vzmakh site - EcSy (Economic System) <br>
 
