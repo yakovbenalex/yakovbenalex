@@ -2,7 +2,7 @@
 
 👀 I’m interested in Backend JS Development and ruotine optimization (Python, VBA and specific software), but now... (read below)
 
-🌱 I’m currently back-end developer of School Vzmakh site - EcSy (Economic system)
+🌱 I’m currently Backend developer of School Vzmakh site - EcSy (Economic system)
 
 Current stack: JS, Google App Script, Git, Tilda
 
