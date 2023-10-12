@@ -7,6 +7,7 @@
 Current stack: JS, Google App Script, Git, Tilda
 
 About me:
+
 I graduated from college as a programmer technician.
 After that, I graduated from the university in the direction of "Information technology in design".
 I started studying Android development, but later started working as a Backend JS developer.
