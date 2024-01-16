@@ -4,7 +4,7 @@
 
 🌱 I’m currently **Backend JS Developer** of School Vzmakh site - EcSy (Economic System) <br>
 
-**Current stack:** <br>_JavaScript, Google App Script, Git, Tilda_ <br>
+**Current stack:** <br>_JavaScript, Google App Script, Git, Tilda, Kotlin_ <br>
 
 **About me:**<br>
 I graduated from college as a programmer technician.<br>
