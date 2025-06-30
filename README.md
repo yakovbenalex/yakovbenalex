@@ -1,12 +1,10 @@
 👋 Hi, I’m **@yakovbenalex**
 
-👀 I’m interested in Backend Kotlin Development and ruotine optimization (Python, VBA and specific software)
+👀 I’m interested in Backend Kotlin Development and routine optimization (Python, VBA and specific software)
 
 🌱 I’m currently **Backend Kotlin Developer** of LabNeo company <br>
 
-**Current stack:** <br>_Kotlin, JavaFx, JDBC (MS SQL), Git_ <br>
+**Current stack:** <br>_Kotlin, JavaFX, JDBC (MS SQL), Git_ <br>
 
 **About me:**<br>
-I graduated from college as a programmer technician.<br>
-After that, I graduated from the university in the direction of "Information technology in design".<br>
-I started studying _Android development_, but later started working as a _Backend JS developer and after that Kotlin development of desktop apps_.
+I first graduated from college as a programmer technician. Subsequently, I earned my degree from the university in "Information technology in design." Initially, I focused on _Android development_. However, I later transitioned to a role as a _Backend JS developer_. Eventually, I expanded my skills to include _Kotlin development for desktop applications_.
